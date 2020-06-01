@@ -1,0 +1,30 @@
+{
+  "name": "@ishiduca/doozin-service-ec-toranoana-jp-joshi",
+  "version": "0.0.0",
+  "description": "",
+  "main": "service.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishiduca/doozin-service-ec-toranoana-jp-joshi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishiduca/doozin-service-ec-toranoana-jp-joshi/issues"
+  },
+  "homepage": "https://github.com/ishiduca/doozin-service-ec-toranoana-jp-joshi#readme",
+  "dependencies": {
+    "@ishiduca/doozin-service": "git+https://github.com/ishiduca/doozin-service.git",
+    "@ishiduca/doozin-service-ec-toranoana-jp": "git+https://github.com/ishiduca/doozin-service-ec-toranoana-jp.git",
+    "inherits": "^2.0.4",
+    "trumpet": "^1.7.2",
+    "urlencode": "^1.1.0"
+  }
+}
